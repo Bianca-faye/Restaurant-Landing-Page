@@ -18,7 +18,7 @@ nav{
   background-color: #FFFCE4;
   align-items: center;
   padding: 0.5rem 2rem;
-  font-size: 50%;
+  font-size: 70%;
   font-weight: bold;
 }
 
@@ -28,7 +28,6 @@ nav ul{
   flex-direction: row;
   align-items: center;
   gap: 1rem;
-  background-color: ;
   padding: 0;
   
 }
@@ -56,11 +55,11 @@ section{
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 0.5rem;
+  gap: 2rem;
   font-family: Sans-Serif, Arial;
 }
 .text{
-  padding: 1rem;
+  padding: 3rem;
   color: maroon;
 }
 h6{
@@ -83,7 +82,8 @@ h6{
 }
 section div p{
   font-size: 10px;
-  margin-top: 30px;
+  margin: 10px 0px;
+  
 }
 section div a{
   text-decoration: none;
@@ -106,5 +106,35 @@ section div a{
   background-color: powderblue;
 }
 
-
-
+.part2{
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  align-items: center;
+  color: maroon;
+  padding: 5px 32px ;
+  
+}
+.part2 div{
+  display: flex;
+  flex-direction: row;
+  padding: 0px 10px;
+}
+h3{
+  display: flex;
+  flex-direction: column;
+}
+h3{
+  width: 100%;
+  text-align: center;
+  color: maroon;
+  padding: 0px 32px;
+  background-color: red;
+}
+p{
+  text-align: left;
+}
+.imgtextthree, .imgtexttwo, .imgtextone{
+  gap: 5px;
+}
