@@ -102,9 +102,6 @@ section div a{
   color: White;
   padding: 5px 6px;
 }
-.part2{
-  background-color: powderblue;
-}
 
 .part2{
   width: 100vw;
@@ -130,7 +127,6 @@ h3{
   text-align: center;
   color: maroon;
   padding: 0px 32px;
-  background-color: red;
 }
 p{
   text-align: left;
