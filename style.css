@@ -103,7 +103,9 @@ section div a{
   color: White;
   padding: 5px 6px;
 }
-
+.image{
+  padding-top: 40px;
+}
 .part2{
   width: 100vw;
   display: flex;
